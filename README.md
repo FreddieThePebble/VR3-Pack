@@ -1,1 +1,1 @@
-# VR3-Pack
+This repositorie contains custom assets for the game
